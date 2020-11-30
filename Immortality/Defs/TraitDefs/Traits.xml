@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<TraitDef>
+		<defName>EternalYouth</defName>
+		<commonality>0.00</commonality>
+		<commonalityFemale>0.00</commonalityFemale>
+		<degreeDatas>
+			<li>
+				<label>Eternal Youth</label>
+				<description>Those possessing eternal youth will never age, though can still succumb to injury.</description>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+  
+    <TraitDef>
+    <defName>EternalImmortal</defName>
+    <commonality>0.00</commonality>
+    <commonalityFemale>0.00</commonalityFemale>
+    <degreeDatas>
+      <li>
+        <label>Incomplete Immortal</label>
+        <description>This form of immortality allows an individual to survive all manner of injury, but does not prevent them from dying of old age.</description>
+      </li>
+    </degreeDatas>
+  </TraitDef> 
+  
+	<TraitDef>
+		<defName>EternalImmortary</defName>
+		<commonality>0.00</commonality>
+		<commonalityFemale>0.00</commonalityFemale>
+		<degreeDatas>
+		<li>
+	 		<label>Immortal</label>
+	 		<description>Immortals cannot die by mortal means. They will never succumb to age nor injury.</description>
+	 	</li>
+		</degreeDatas>
+	</TraitDef>
+
+</Defs>
